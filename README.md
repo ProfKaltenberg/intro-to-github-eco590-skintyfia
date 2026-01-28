@@ -87,6 +87,8 @@ To learn more about following users, read ["Following People"](https://docs.gith
 
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
+Goofy 667676767676767677676767
+
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
 ## 📝 Optional next steps 
