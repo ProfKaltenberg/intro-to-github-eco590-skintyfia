@@ -87,12 +87,11 @@ To learn more about following users, read ["Following People"](https://docs.gith
 
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
-Goofy 667676767676767677676767
-
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
 
 ## 📝 Optional next steps 
 
+Comment: Unfortunately, I don't understand how to complete these steps:
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
